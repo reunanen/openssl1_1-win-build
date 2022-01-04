@@ -2,6 +2,7 @@
 *.log
 *.opensdf
 *.sdf
+*.vcxproj.user
 *~
 /build-*/*/ARM/Debug
 /build-*/*/ARM/Release
